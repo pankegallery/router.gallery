@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>router.gallery – online index - </title>
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+
+        <header>
+          <h1>router.gallery</h1>
+          <h2>website for the router–gallery-space at <a href="http://www.pankeculture.com/">panke.club</a></h2>
+        </header>
+        <hr>
+        <h2  class="about"><a href="about.html">About</a> | <a href="index.html">Exhibitions</a> | <a href="contact.html">Contact</a></h3>
+		<hr>
+
+
+        <section id="main_content">
+
+
+<h3>
+	<a id="000myHOME" class="anchor" href="#000myHOME" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a> <a href="https://map-of-the-eu.com/"> Map of the EU</a> Net Art Vision Board </h3>
+
+<p><br>
+	<ul>
+	<code>VERNISSAGE:</code> 27 August 2021 17:00   &mdash; 20:00 <code>location:</code><a href="http://www.openstreetmap.org/node/2204880969"> panke.gallery</a><br>
+	<code>opening times:</code> 27 August 2021<br>
+	<code>location:</code><a href="http://www.openstreetmap.org/node/2204880969"> panke.gallery</a><br>
+	<code>title:</code><a href="https://map-of-the-eu.com/">Map of the EU</a> Net Art Vision Board <br>
+	<code>date:</code> 2021<br>
+	<code>artist</code> Gretchen Andrew <br>
+	<code>curated by</code> Noemi Garay<br>
+	</ul>
+</p>
+
+
+
+<h3>
+<a id="context" class="anchor" href="#conext" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Context</h3>
+<br>
+<br>
+<p><span style="font-weight:bold"><a href="https://map-of-the-eu.com/">Map of the EU</a> Net Art Vision Board (2021)</span>
+<a href="https://map-of-the-eu.com/">"Map of the EU</a> Net Art Vision Board” continues Gretchen’s takeover of major art and political power structures by programming her aspirations for a more open world. 
+Comparing the idea of Europe to the utopian idealism of the internet’s potential, Gretchen hopes to refocus our powerful energy of desire to the ways in which existing structures can be tricked into manifesting unity and belonging, creating not just a more hopeful moment but enlisting the power of language, art, and artificial intelligence to make a different future.   AI is inherently backward-looking and susceptible to being reprogrammed through knowledge of the internet’s structure. Gretchen exploits this, rewriting existing representations of reality with her dreams by using a search engine’s own rules and limitations against itself. Using the internet’s inability to parse desire, she turned her own hopes into a manifested reality.  
+Each of Gretchen’s search engine hacks beings with a desire which she then turns into a vision board of what her hoped for future looks and feels like.  Before she then takes these images and programs them to become top search results she creates a website, a “Net Art Vision Board”, that hosts her images and streams of NLP (natural language processing) text that uses her desire to build relevance between a keyword (<a href="https://map-of-the-eu.com/">"Map of the EU"</a>) and her vision boards.  This Net Art Vision Board is both digital art and highly functional, serving an instrumental role in hypnotizing Google into displaying her vision boards as top results.  
+By displaying her <a href="https://map-of-the-eu.com/">Map of the EU</a> Net Art Vision Board on router.gallery, Gretchen focuses our attention on the poetic elements of her websites as opposed to their technical, networked role in achieving her search engine manipulations. 
+But it’s also Gretchen. So we want to have some highly conceptual physical fun as well. panke.gallery will also be hosting a participatory installation with glue, glittery, magazines, crafts, and non ironic desire. Visitors to the gallery are invited to adhere words and symbols of encouragement, desire and motivation in efforts to transform the gallery’s exterior into a vision board, collectively imagining and celebrating a hoped-for future.  
+<br>	      
+<br>
+<br>
+The exhibition & event will take place outside, in compliance with all applicable Corona protective regulations.<br>
+Please keep your distance.</p>
+
+	<br>
+	<img src="/images/later_date_browser.png"/><br>
+	<br>
+<p>Photo Credits: Gretchen Andrew<br>
+Screenshot of laterdate.net with text "I think one day we will be able to go outside again"	
+<p>
+	<code>artist:</code>
+		<p>
+			<br>
+<a href="https://www.gretchenandrew.com/">Gretchen Andrew</a> manipulates systems of power with art, glitter and code. She is best known for her playful hacks on major art world and political institutions, including Frieze, The Whitney Biennial, Artforum, The Turner Prize, and The Next American President.  In these digital performances she reimagines reality with art and desire. She does this by making assemblage “vision boards” that she programs to become top internet search results. The feminine and trivialized materials of her vision boards purposefully clash with the male-dominated worlds of AI, programming, and political control they also operate within. She trained in London with the artist Billy Childish from 2012-2017. In 2018 the V&A Museum released her book Search Engine Art. Gretchen’s work has recently been featured in Flash Art, The Washington Post, Fortune Magazine, Monopol, Fast Company, Wirtschaftswoche, The Los Angeles Times, and The Financial Times.
+
+
+        <footer>
+          router.gallery is maintained by <a href="https://github.com/curatingyoutube">curatingyoutube</a> and supported by  <a href="http://www.pankeculture.com">panke e.V.</a> This initiative is deeply inspired and supported by <a href="http://datenform.de">Aram Bartholl</a> and his <a href="http://datenform.de/offline-art-new2.html">offline art format</a>
+          This page is based on a generated <a href="https://pages.github.com">GitHub Pages</a> branch and the tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
+        </footer>
+
+
+      </div>
+    </div>
+  </body>
+</html>
